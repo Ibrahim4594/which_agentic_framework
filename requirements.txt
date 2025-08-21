@@ -1,0 +1,5 @@
+openai
+pytest
+requests
+dotenv
+logging
